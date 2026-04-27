@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 02:01 IR
+- 🎵 [خلاصه_جنگ_سرد.mp3](https://github.com/farshid54-hub/Download-all/raw/main/dl/%D8%AE%D9%84%D8%A7%D8%B5%D9%87_%D8%AC%D9%86%DA%AF_%D8%B3%D8%B1%D8%AF.mp3) `7.2MB`
+
+---
+
+
 ### 📅 2026-04-27 20:24 IR
 - 🎬 [Scent of a Woman ｜ ＂I'll Show You Out of Order!＂.mp4](https://github.com/nscl5/sandbox/raw/main/dl/Scent%20of%20a%20Woman%20%EF%BD%9C%20%EF%BC%82I%27ll%20Show%20You%20Out%20of%20Order%21%EF%BC%82.mp4) `11.8MB`
 
