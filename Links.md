@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 02:31 IR
+- 📱 [thefeed-android-v0.13.2-rc2-arm64.apk](https://github.com/farshid54-hub/FARSHID54/raw/main/dl/thefeed-android-v0.13.2-rc2-arm64.apk) `8.0MB`
+
+---
+
+
 ### 📅 2026-05-01 02:25 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.3.apk](https://github.com/farshid54-hub/FARSHID54/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.3.apk) `18.1MB`
 
